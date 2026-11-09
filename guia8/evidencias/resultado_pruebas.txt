@@ -1,0 +1,14 @@
+test_concurrent_orders_cannot_overdraw_inventory (test_demo.StoreTests.test_concurrent_orders_cannot_overdraw_inventory) ... ok
+test_duplicate_order_lines_are_combined_before_stock_check (test_demo.StoreTests.test_duplicate_order_lines_are_combined_before_stock_check) ... ok
+test_health_and_catalog_metadata (test_demo.StoreTests.test_health_and_catalog_metadata) ... ok
+test_insufficient_stock_does_not_create_order_or_decrease_inventory (test_demo.StoreTests.test_insufficient_stock_does_not_create_order_or_decrease_inventory) ... ok
+test_legacy_order_status_is_shown_in_plain_language (test_demo.StoreTests.test_legacy_order_status_is_shown_in_plain_language) ... ok
+test_order_records_details_and_updates_inventory (test_demo.StoreTests.test_order_records_details_and_updates_inventory) ... ok
+test_order_rejects_invalid_quantity_and_user (test_demo.StoreTests.test_order_rejects_invalid_quantity_and_user) ... ok
+test_registration_rejects_invalid_fields (test_demo.StoreTests.test_registration_rejects_invalid_fields) ... ok
+test_user_registration_normalizes_email_and_prevents_duplicates (test_demo.StoreTests.test_user_registration_normalizes_email_and_prevents_duplicates) ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.192s
+
+OK
